@@ -1,4 +1,4 @@
-whatsup~~~~
+Welcome!
 
 Today i will be going through how i would do the project.
 In so_long i will be going through the makefile first as to do the project we
